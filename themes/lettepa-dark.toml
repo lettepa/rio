@@ -1,0 +1,56 @@
+[colors]
+# Regular colors
+background = "#08192D" # Black/Kachi, bg
+black = "#08192D"      # Black/Kachi, bg
+blue = "#37B4FD"       # brRuri, blue
+cyan = "#71DCEA"       # brChigusa, cyan
+foreground = "#CCE0EC" # White, fg
+green = "#47D2BC"      # brAomidori, green
+magenta = "#FD67B8"    # brTsutsuji, magenta
+red = "#ED5A65"        # Nakabeni, red
+white = "#CCE0EC"      # White, fg
+yellow = "#F9BF45"     # Tamako, yellow
+
+# Cursor
+cursor = "#CCE0EC"    # White, fg
+vi-cursor = "#CCE0EC" # White, fg
+
+# Navigation
+tabs = "#24384F"                   # brBlack, bg0
+tabs-foreground = "#83A2B7"        # brGrey, fg0
+tabs-active = "#08192D"            # Black/Kachi, bg
+tabs-active-foreground = "#CCE0EC" # White, fg
+tabs-active-highlight = "#3A8FB7"  # Chigusa, cyan0
+bar = "#3A8FB7"                    # Chigusa, cyan0
+
+# Search
+search-match-background = "#3A8FB7"         # Chigusa, cyan0
+search-match-foreground = "#CCE0EC"         # White, fg
+search-focused-match-background = "#CCE0EC" # White, fg
+search-focused-match-foreground = "#08192D" # Black/Kachi, bg
+
+# Selection
+selection-background = "#24384F" # brBlack, bg0
+selection-foreground = "#CCE0EC" # White, fg
+
+# Dim colors
+dim-black = "#08192D"      # Black, bg
+dim-blue = "#005CAF"       # Ruri, blue0
+dim-cyan = "#3A8FB7"       # Chigusa, cyan0
+dim-foreground = "#83A2B7" # brGrey, fg0
+dim-green = "#00AA90"      # Aomidori, green0
+dim-magenta = "#E03C8A"    # Tsutsuji, magenta0
+dim-red = "#CB1B45"        # Kurenai, red0
+dim-white = "#83A2B7"      # brGrey, fg0
+dim-yellow = "#CA7A2C"     # Kohaku, yellow0
+
+# Light colors
+light-black = "#24384F"      # brBlack, bg0
+light-blue = "#37B4FD"       # brRuri, blue
+light-cyan = "#71DCEA"       # brChigusa, cyan
+light-foreground = "#CCE0EC" # White, fg
+light-green = "#47D2BC"      # brAoimidori, green
+light-magenta = "#FD67B8"    # brTsutsuji, magenta
+light-red = "#ED5A65"        # Nakabeni, red
+light-white = "#CCE0EC"      # White, fg
+light-yellow = "#F9BF45"     # Tamako, yellow

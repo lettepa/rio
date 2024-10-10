@@ -1,0 +1,56 @@
+[colors]
+# Regular colors
+background = "#DFF3FF" # brWhite, bg
+black = "#DFF3FF"      # brWhite, bg
+blue = "#005CAF"       # Ruri, blue
+cyan = "#3A8FB7"       # Chigusa, cyan
+foreground = "#24384F" # brBlack, fg
+green = "#00AA90"      # Aomidori, green
+magenta = "#E03C8A"    # Tsutsuji, magenta
+red = "#CB1B45"        # Kurenai, red
+white = "#24384F"      # brBlack, fg
+yellow = "#CA7A2C"     # Kohaku, yellow
+
+# Cursor
+cursor = "#24384F"    # brBlack, fg
+vi-cursor = "#24384F" # brBlack, fg
+
+# Navigation
+tabs = "#CCE0EC"                   # White, bg0
+tabs-foreground = "#5C7186"        # dimGrey, fg0
+tabs-active = "#DFF3FF"            # brWhite, bg
+tabs-active-foreground = "#24384F" # brBlack, fg
+tabs-active-highlight = "#71DCEA"  # brChigusa, cyan0
+bar = "#71DCEA"                    # brChigusa, cyan0
+
+# Search
+search-match-background = "#71DCEA"         # brChigusa, cyan0
+search-match-foreground = "#24384F"         # brBlack, fg
+search-focused-match-background = "#24384F" # brBlack, fg
+search-focused-match-foreground = "#DFF3FF" # brWhite, bg
+
+# Selection
+selection-background = "#CCE0EC" # White, bg0
+selection-foreground = "#24384F" # brBlack, fg
+
+# Dim colors
+dim-black = "#DFF3FF"      # brWhite, bg
+dim-blue = "#37B4FD"       # brRuri, blue0
+dim-cyan = "#71DCEA"       # brChigusa, cyan0
+dim-foreground = "#5C7186" # dimGrey, fg0
+dim-green = "#47D2BC"      # brAoimidori, green0
+dim-magenta = "#FD67B8"    # brTsutsuji, magenta0
+dim-red = "#ED5A65"        # Nakabeni, red0
+dim-white = "#5C7186"      # dimGrey, fg0
+dim-yellow = "#F9BF45"     # Tamako, yellow0
+
+# Light colors
+light-black = "#CCE0EC"      # White, bg0
+light-blue = "#005CAF"       # Ruri, blue
+light-cyan = "#3A8FB7"       # Chigusa, cyan
+light-foreground = "#24384F" # brBlack, fg
+light-green = "#00AA90"      # Aomidori, green
+light-magenta = "#E03C8A"    # Tsutsuji, magenta
+light-red = "#CB1B45"        # Kurenai, red
+light-white = "#24384F"      # brBlack, fg
+light-yellow = "#CA7A2C"     # Kohaku, yellow
