@@ -1,56 +1,56 @@
 [colors]
 # Regular colors
-background = "#08192D" # Black/Kachi, bg
-black = "#08192D"      # Black/Kachi, bg
-blue = "#37B4FD"       # brRuri, blue
-cyan = "#71DCEA"       # brChigusa, cyan
-foreground = "#CCE0EC" # White, fg
-green = "#47D2BC"      # brAomidori, green
-magenta = "#FD67B8"    # brTsutsuji, magenta
-red = "#ED5A65"        # Nakabeni, red
-white = "#CCE0EC"      # White, fg
-yellow = "#F9BF45"     # Tamako, yellow
+background = "#08192d" # bg,      kachi
+black = "#08192d"      # bg,      kachi
+blue = "#2ea9df"       # blue,    tsuyukusa
+cyan = "#7db9de"       # cyan,    wasurenagusa
+foreground = "#bdc0ba" # fg,      shironezumi
+green = "#66bab7"      # green,   mizuasagi
+magenta = "#f596aa"    # magenta, momo
+red = "#db4d6d"        # red,     nakabeni
+white = "#bdc0ba"      # fg,      shironezumi
+yellow = "#f7c242"     # yellow,  hanaba
 
 # Cursor
-cursor = "#CCE0EC"    # White, fg
-vi-cursor = "#CCE0EC" # White, fg
+cursor = "#bdc0ba"    # fg, shironezumi
+vi-cursor = "#bdc0ba" # fg, shironezumi
 
 # Navigation
-tabs = "#24384F"                   # brBlack, bg0
-tabs-foreground = "#83A2B7"        # brGrey, fg0
-tabs-active = "#08192D"            # Black/Kachi, bg
-tabs-active-foreground = "#CCE0EC" # White, fg
-tabs-active-highlight = "#3A8FB7"  # Chigusa, cyan0
-bar = "#3A8FB7"                    # Chigusa, cyan0
+tabs = "#0f2540"                   # bg0,   kon
+tabs-foreground = "#91989f"        # fg0,   ginnezumi
+tabs-active = "#08192d"            # bg,    kachi
+tabs-active-foreground = "#bdc0ba" # fg,    shironezumi
+tabs-active-highlight = "#3a8fb7"  # cyan0, chigusa
+bar = "#3a8fb7"                    # cyan0, chigusa
 
 # Search
-search-match-background = "#3A8FB7"         # Chigusa, cyan0
-search-match-foreground = "#CCE0EC"         # White, fg
-search-focused-match-background = "#CCE0EC" # White, fg
-search-focused-match-foreground = "#08192D" # Black/Kachi, bg
+search-match-background = "#3a8fb7"         # cyan0, chigusa
+search-match-foreground = "#bdc0ba"         # fg,    shironezumi
+search-focused-match-background = "#bdc0ba" # fg,    shironezumi
+search-focused-match-foreground = "#08192d" # bg,    kachi
 
 # Selection
-selection-background = "#24384F" # brBlack, bg0
-selection-foreground = "#CCE0EC" # White, fg
+selection-background = "#0f2540" # bg0, kon
+selection-foreground = "#bdc0ba" # fg,  shironezumi
 
 # Dim colors
-dim-black = "#08192D"      # Black, bg
-dim-blue = "#005CAF"       # Ruri, blue0
-dim-cyan = "#3A8FB7"       # Chigusa, cyan0
-dim-foreground = "#83A2B7" # brGrey, fg0
-dim-green = "#00AA90"      # Aomidori, green0
-dim-magenta = "#E03C8A"    # Tsutsuji, magenta0
-dim-red = "#CB1B45"        # Kurenai, red0
-dim-white = "#83A2B7"      # brGrey, fg0
-dim-yellow = "#CA7A2C"     # Kohaku, yellow0
+dim-black = "#08192d"      # bg,       kachi
+dim-blue = "#005caf"       # blue0,    ruri
+dim-cyan = "#3a8fb7"       # cyan0,    chigusa
+dim-foreground = "#91989f" # fg0,      ginnezumi
+dim-green = "#268785"      # green0,   seiheki
+dim-magenta = "#e03c8a"    # magenta0, tsutsuji
+dim-red = "#cb1b45"        # red0,     kurenai
+dim-white = "#91989f"      # fg0,      ginnezumi
+dim-yellow = "#96632e"     # yellow0,  chojicha
 
 # Light colors
-light-black = "#24384F"      # brBlack, bg0
-light-blue = "#37B4FD"       # brRuri, blue
-light-cyan = "#71DCEA"       # brChigusa, cyan
-light-foreground = "#CCE0EC" # White, fg
-light-green = "#47D2BC"      # brAoimidori, green
-light-magenta = "#FD67B8"    # brTsutsuji, magenta
-light-red = "#ED5A65"        # Nakabeni, red
-light-white = "#CCE0EC"      # White, fg
-light-yellow = "#F9BF45"     # Tamako, yellow
+light-black = "#0f2540"      # bg0,     kon
+light-blue = "#2ea9df"       # blue,    tsuyukusa
+light-cyan = "#7db9de"       # cyan,    wasurenagusa
+light-foreground = "#bdc0ba" # fg,      shironezumi
+light-green = "#66bab7"      # green,   mizuasagi
+light-magenta = "#f596aa"    # magenta, momo
+light-red = "#db4d6d"        # red,     nakabeni
+light-white = "#bdc0ba"      # fg,      shironezumi
+light-yellow = "#f7c242"     # yellow,  hanaba
