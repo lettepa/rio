@@ -34,23 +34,23 @@ selection-background = "#0f2540" # bg0, kon
 selection-foreground = "#bdc0ba" # fg,  shironezumi
 
 # Dim colors
-dim-black = "#08192d"      # bg,       kachi
-dim-blue = "#005caf"       # blue0,    ruri
-dim-cyan = "#3a8fb7"       # cyan0,    chigusa
-dim-foreground = "#91989f" # fg0,      ginnezumi
-dim-green = "#268785"      # green0,   seiheki
-dim-magenta = "#e03c8a"    # magenta0, tsutsuji
-dim-red = "#cb1b45"        # red0,     kurenai
-dim-white = "#91989f"      # fg0,      ginnezumi
-dim-yellow = "#96632e"     # yellow0,  chojicha
+dim-black = "#08192d"      # bg,      kachi
+dim-blue = "#2ea9df"       # blue,    tsuyukusa
+dim-cyan = "#7db9de"       # cyan,    wasurenagusa
+dim-foreground = "#91989f" # fg0,     ginnezumi
+dim-green = "#66bab7"      # green,   mizuasagi
+dim-magenta = "#f596aa"    # magenta, momo
+dim-red = "#db4d6d"        # red,     nakabeni
+dim-white = "#91989f"      # fg0,     ginnezumi
+dim-yellow = "#f7c242"     # yellow,  hanaba
 
 # Light colors
-light-black = "#0f2540"      # bg0,     kon
-light-blue = "#2ea9df"       # blue,    tsuyukusa
-light-cyan = "#7db9de"       # cyan,    wasurenagusa
-light-foreground = "#bdc0ba" # fg,      shironezumi
-light-green = "#66bab7"      # green,   mizuasagi
-light-magenta = "#f596aa"    # magenta, momo
-light-red = "#db4d6d"        # red,     nakabeni
-light-white = "#bdc0ba"      # fg,      shironezumi
-light-yellow = "#f7c242"     # yellow,  hanaba
+light-black = "#0f2540"      # bg0,      kon
+light-blue = "#005caf"       # blue0,    ruri
+light-cyan = "#3a8fb7"       # cyan0,    chigusa
+light-foreground = "#bdc0ba" # fg,       shironezumi
+light-green = "#268785"      # green0,   seiheki
+light-magenta = "#e03c8a"    # magenta0, tsutsuji
+light-red = "#cb1b45"        # red0,     kurenai
+light-white = "#bdc0ba"      # fg,       shironezumi
+light-yellow = "#96632e"     # yellow0,  chojicha
